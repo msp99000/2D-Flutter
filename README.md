@@ -1,2 +1,2 @@
-# Space-Shooter
-A 2D Flutter Shooting Game
+# Space-Pong
+A 2D Flutter Game
